@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "52C4D64C-1C1F-41BD-B721-2B8FB6C82EFE"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D016C1C-C107-4BC2-A294-A51236B686BD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCasesDemo/PostsDashboard/Networking/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "getContentsFrom(url:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2D016C1C-C107-4BC2-A294-A51236B686BD - 657b2936dffac347"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static TestCasesDemo.NetworkManager.getContentsFrom(url: Foundation.URL, completion: (Swift.Result&lt;TestCasesDemo.PostItems, TestCasesDemo.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestCasesDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shankarbs/Blog_repos/TestCasesDemo-Part-2/TestCasesDemo/PostsDashboard/Networking/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "239">
+               </Location>
+               <Location
+                  uuid = "2D016C1C-C107-4BC2-A294-A51236B686BD - d1cda265a04f0360"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in static TestCasesDemo.NetworkManager.getContentsFrom(url: Foundation.URL, completion: (Swift.Result&lt;TestCasesDemo.PostItems, TestCasesDemo.NetworkError&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "TestCasesDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shankarbs/Blog_repos/TestCasesDemo-Part-2/TestCasesDemo/PostsDashboard/Networking/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "198">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F40C3A3E-4085-4E71-ACA2-ECEE994876BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCasesDemo/PostsDashboard/ViewModel/PostsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getPostItems()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FE4B4C8D-6079-49F6-B2B6-27705509FDA4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCasesDemo/PostsDashboard/ViewModel/PostsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "getPostItems()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADA3065D-BDD0-46CC-A7BC-0CAB56211368"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCasesDemo/PostsDashboard/ViewController/PostsDashboardViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FC18089-8623-42CC-8A84-4A32735915FD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCasesDemoTests/Posts/MockNetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "MockNetworkManager"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "7FC18089-8623-42CC-8A84-4A32735915FD - abf27c720e0e6930"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestCasesDemoTests.MockNetworkManager.deinit"
+                  moduleName = "TestCasesDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shankarbs/Blog_repos/TestCasesDemo-Part-2/TestCasesDemoTests/Posts/MockNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "7FC18089-8623-42CC-8A84-4A32735915FD - 42ef027b7115d405"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TestCasesDemoTests.MockNetworkManager.__deallocating_deinit"
+                  moduleName = "TestCasesDemoTests"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shankarbs/Blog_repos/TestCasesDemo-Part-2/TestCasesDemoTests/Posts/MockNetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CE2FF59A-094A-430F-88DC-05ED320EFDBD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCasesDemoTests/Posts/PostsViewModelTests.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BDF08875-A5DF-4620-B172-FA19598548FE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestCasesDemo/PostsDashboard/ViewModel/PostsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "getCategoriesForPostAt(index:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
